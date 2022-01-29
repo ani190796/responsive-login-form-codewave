@@ -1,0 +1,31 @@
+
+    .login-btn {
+        padding: 20px;
+        border: none!important;
+        outline: none!important;
+        color: #fff;
+        font-weight: 700;
+        border-radius: 30px;
+        height: 60px!important;
+        width: 65%!important;
+        /* margin-left:10px; */
+        background: linear-gradient(141.44deg, #6558F4 0%, #2C1FB5 100%);
+      }
+
+
+      .hospital-id {
+        box-sizing: border-box;
+        padding: 10px 22px;
+        /* width: 70%; */
+        width: 67%;
+        border: 1px solid #70748E;
+        border-radius: 30px;
+        background-color: #FFFFFF;
+        margin-left: auto;
+        font-size:25px;
+        margin-right: auto;
+      }
+
+      .login-form-container {
+        margin: 100px 0 0 0 
+      }
